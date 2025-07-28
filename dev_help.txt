@@ -1,0 +1,2 @@
+go build -o myprogram
+go mod tidy
